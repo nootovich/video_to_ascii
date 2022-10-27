@@ -1,4 +1,6 @@
-out/
 .idea/
-images/
-*.class
+out/
+
+images/*.png
+images/*.jpg
+images/*.jpeg
